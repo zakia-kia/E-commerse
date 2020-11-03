@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-commerse</string>
+    <string name="large">Large</string>
+    <string name="medium">Medium</string>
+    <string name="kecil">Short</string>
+    <string name="name">zakia</string>
+    <string name="masukantext">"Masukan Text : "</string>
+    <string name="addproduct">add product</string>
+    <string name="getproduct">get product</string>
+</resources>
